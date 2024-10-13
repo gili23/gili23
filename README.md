@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Giliane Rodrigues.
-- 📷 Atualmente sou fotográfa , estudando para migrar de Profissão.
+- <3 Estudante de Análise e Desenvolvimento de Sistemas.
 - 👀 I’m interested em Ser Desenvolvedora.
 - 🌱 I’m currently learning FullStack javaScript + Angular.
 - 📫 Entre em contato comigo pelo linkedin.
